@@ -1,0 +1,15 @@
+PODS:
+  - Locksmith (4.0.0)
+  - SwiftKeychainWrapper (3.0.1)
+
+DEPENDENCIES:
+  - Locksmith (~> 4.0)
+  - SwiftKeychainWrapper (~> 3.0)
+
+SPEC CHECKSUMS:
+  Locksmith: e9bebbaaa4cee3c511bc358a44f843c3fe00e21f
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+
+PODFILE CHECKSUM: 22f357a8d9e49496f11a3d1ced7faca1ae9c9081
+
+COCOAPODS: 1.4.0
